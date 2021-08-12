@@ -1,0 +1,96 @@
+{
+  "protected_resources": {
+    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "products": ["POST", "PUT", "PATCH", "DELETE"]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Acer Nitro 5 15'' 2021 (AMD)",
+      "price": "22900000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/AcerNitro515''2021(AMD).png"
+    },
+    {
+      "id": 2,
+      "name": "Acer Nitro 5 2021 (Intel H45)",
+      "price": "27900000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/AcerNitro52021(IntelH45).png"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo ThinkPad X390",
+      "price": "18900000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/LenovoThinkPadX390.png"
+    },
+    {
+      "id": 4,
+      "name": "Surface Laptop 3 13.5\"",
+      "price": "22490000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/SurfaceLaptop3135.png"
+    },
+    {
+      "id": 5,
+      "name": "Dell Inspiron 14 5410",
+      "price": "20990000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/DellInspiron145410.png"
+    },
+    {
+      "id": 6,
+      "name": "Dell Inspiron 15 5502",
+      "price": "18990000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/DellInspiron155502.png"
+    },
+    {
+      "id": 7,
+      "name": "Asus ZenBook 14 Q407iq",
+      "price": "19490000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/AsusZenBook14Q407iq.png"
+    },
+    {
+      "id": 8,
+      "name": "Dell Inspiron 15 5505",
+      "price": "18990000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/DellInspiron155505.png"
+    },
+    {
+      "id": 9,
+      "name": "Lenovo IdeaPad 3 14 (AMD Ryzen 5000)",
+      "price": "14290000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/LenovoIdeaPad314(AMDRyzen5000).png"
+    },
+    {
+      "id": 10,
+      "name": "ASUS ZenBook Duo 14 UX482",
+      "price": "33990000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/ASUSZenBookDuo14UX482.png"
+    },
+    {
+      "id": 11,
+      "name": "Dell Inspiron 15 5505",
+      "price": "21990000",
+      "type": "Laptop",
+      "quantity": 1,
+      "image": "./public/images/DellInspiron155505.png"
+    }
+  ]
+}
