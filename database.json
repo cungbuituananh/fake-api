@@ -10,7 +10,7 @@
       "price": "22900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/AcerNitro515''2021(AMD).png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/3/nitro5-2020-01.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": "27900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/AcerNitro52021(IntelH45).png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/7/28/acer-nitro5-2021-2.jpg"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "price": "18900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/LenovoThinkPadX390.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/31/Lenovo-ThinkPad-X390-1.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": "22490000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/SurfaceLaptop3135.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/22/Surface-Laptop-3-13.3-Platinum-1.jpg"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "price": "20990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/DellInspiron145410.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/7/27/dell-inspiron-5410.jpg"
     },
     {
       "id": 6,
@@ -50,7 +50,7 @@
       "price": "18990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/DellInspiron155502.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/19/inspiron5501-01.jpg"
     },
     {
       "id": 7,
@@ -58,7 +58,7 @@
       "price": "19490000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/AsusZenBook14Q407iq.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/10/22/407iq-01.jpg"
     },
     {
       "id": 8,
@@ -66,7 +66,7 @@
       "price": "18990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/DellInspiron155505.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/4/30/5505-1.jpg"
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "price": "14290000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/LenovoIdeaPad314(AMDRyzen5000).png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/6/12/ideapad314g6-arcticgrey-1.jpg"
     },
     {
       "id": 10,
@@ -82,15 +82,7 @@
       "price": "33990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "../images/ASUSZenBookDuo14UX482.png"
-    },
-    {
-      "id": 11,
-      "name": "Dell Inspiron 15 5505",
-      "price": "21990000",
-      "type": "Laptop",
-      "quantity": 1,
-      "image": "../images/DellInspiron155505.png"
+      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/5/19/ux482-1.jpg"
     }
   ]
 }
