@@ -10,7 +10,7 @@
       "price": "22900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/AcerNitro515''2021(AMD).png"
+      "image": "./images/AcerNitro515''2021(AMD).png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": "27900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/AcerNitro52021(IntelH45).png"
+      "image": "./images/AcerNitro52021(IntelH45).png"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "price": "18900000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/LenovoThinkPadX390.png"
+      "image": "./images/LenovoThinkPadX390.png"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": "22490000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/SurfaceLaptop3135.png"
+      "image": "./images/SurfaceLaptop3135.png"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "price": "20990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/DellInspiron145410.png"
+      "image": "./images/DellInspiron145410.png"
     },
     {
       "id": 6,
@@ -50,7 +50,7 @@
       "price": "18990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/DellInspiron155502.png"
+      "image": "./images/DellInspiron155502.png"
     },
     {
       "id": 7,
@@ -58,7 +58,7 @@
       "price": "19490000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/AsusZenBook14Q407iq.png"
+      "image": "./images/AsusZenBook14Q407iq.png"
     },
     {
       "id": 8,
@@ -66,7 +66,7 @@
       "price": "18990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/DellInspiron155505.png"
+      "image": "./images/DellInspiron155505.png"
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "price": "14290000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/LenovoIdeaPad314(AMDRyzen5000).png"
+      "image": "./images/LenovoIdeaPad314(AMDRyzen5000).png"
     },
     {
       "id": 10,
@@ -82,7 +82,7 @@
       "price": "33990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/ASUSZenBookDuo14UX482.png"
+      "image": "./images/ASUSZenBookDuo14UX482.png"
     },
     {
       "id": 11,
@@ -90,7 +90,7 @@
       "price": "21990000",
       "type": "Laptop",
       "quantity": 1,
-      "image": "./public/images/DellInspiron155505.png"
+      "image": "./images/DellInspiron155505.png"
     }
   ]
 }
