@@ -6,83 +6,73 @@
   "products": [
     {
       "id": 1,
-      "name": "Acer Nitro 5 15'' 2021 (AMD)",
-      "price": "22900000",
-      "type": "Laptop",
+      "name": "BIG PALMIER",
+      "price": "15000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/3/nitro5-2020-01.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_8599_large.jpg"
     },
     {
       "id": 2,
-      "name": "Acer Nitro 5 2021 (Intel H45)",
-      "price": "27900000",
-      "type": "Laptop",
+      "name": "BUTTER RAISINS",
+      "price": "25000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/7/28/acer-nitro5-2021-2.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/z1627694195311_b14b0df8031bfcc36cc0885565a22867_ce1450d5cf704a5dbebaf65e5081d091_large.jpg"
     },
     {
       "id": 3,
-      "name": "Lenovo ThinkPad X390",
-      "price": "18900000",
-      "type": "Laptop",
+      "name": "CAKE DỨA",
+      "price": "22000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/31/Lenovo-ThinkPad-X390-1.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_8599_large.jpg"
     },
     {
       "id": 4,
-      "name": "Surface Laptop 3 13.5\"",
-      "price": "22490000",
-      "type": "Laptop",
+      "name": "CHUỐI NƯỚNG",
+      "price": "20000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/22/Surface-Laptop-3-13.3-Platinum-1.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/z1627693706635_f3729229ebcdc40fb2a40cbbebc6c4cd_489532f5116a4b65a711eeb0fdfc05c8_large.jpg"
     },
     {
       "id": 5,
-      "name": "Dell Inspiron 14 5410",
-      "price": "20990000",
-      "type": "Laptop",
+      "name": "DELICACY COCONUT CAKE",
+      "price": "22000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/7/27/dell-inspiron-5410.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_8612_large.jpg"
     },
     {
       "id": 6,
-      "name": "Dell Inspiron 15 5502",
-      "price": "18990000",
-      "type": "Laptop",
+      "name": "DONUT CHOCOLATE",
+      "price": "15000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/19/inspiron5501-01.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5382_large.jpg"
     },
     {
       "id": 7,
-      "name": "Asus ZenBook 14 Q407iq",
-      "price": "19490000",
-      "type": "Laptop",
+      "name": "DONUT ĐƯỜNG",
+      "price": "8000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/10/22/407iq-01.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5386_large.jpg"
     },
     {
       "id": 8,
-      "name": "Dell Inspiron 15 5505",
-      "price": "18990000",
-      "type": "Laptop",
+      "name": "GATEAUX DE BASQUE",
+      "price": "40000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/4/30/5505-1.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_8615_large.jpg"
     },
     {
       "id": 9,
-      "name": "Lenovo IdeaPad 3 14 (AMD Ryzen 5000)",
-      "price": "14290000",
-      "type": "Laptop",
+      "name": "GATO RUỐC",
+      "price": "13000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/6/12/ideapad314g6-arcticgrey-1.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_8588_large.jpg"
     },
     {
       "id": 10,
-      "name": "ASUS ZenBook Duo 14 UX482",
-      "price": "33990000",
-      "type": "Laptop",
+      "name": "MADELEINE",
+      "price": "15000",
       "quantity": 1,
-      "image": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/5/19/ux482-1.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
     }
   ]
 }
