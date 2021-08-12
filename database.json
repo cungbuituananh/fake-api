@@ -8,7 +8,7 @@
       "id": 1,
       "name": "BIG PALMIER",
       "type": "cake",
-      "price": "15000",
+      "price": 15000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_8599_large.jpg"
     },
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "BUTTER RAISINS",
       "type": "cake",
-      "price": "25000",
+      "price": 25000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/z1627694195311_b14b0df8031bfcc36cc0885565a22867_ce1450d5cf704a5dbebaf65e5081d091_large.jpg"
     },
@@ -24,7 +24,7 @@
       "id": 3,
       "name": "CAKE DỨA",
       "type": "cake",
-      "price": "22000",
+      "price": 22000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/z1627693275115_591d2fbfece2e008113aaa5ac55f0a08_cf11dceb3b47478597921361a2d5d4c1_large.jpg"
     },
@@ -32,14 +32,14 @@
       "id": 4,
       "name": "CHUỐI NƯỚNG",
       "type": "cake",
-      "price": "20000",
+      "price": 20000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/z1627693706635_f3729229ebcdc40fb2a40cbbebc6c4cd_489532f5116a4b65a711eeb0fdfc05c8_large.jpg"
     },
     {
       "id": 5,
       "name": "DELICACY COCONUT CAKE",
-      "price": "22000",
+      "price": 22000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_8612_large.jpg"
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "DONUT CHOCOLATE",
-      "price": "15000",
+      "price": 15000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5382_large.jpg"
@@ -55,7 +55,7 @@
     {
       "id": 7,
       "name": "DONUT ĐƯỜNG",
-      "price": "8000",
+      "price": 8000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5386_large.jpg"
@@ -63,7 +63,7 @@
     {
       "id": 8,
       "name": "GATEAUX DE BASQUE",
-      "price": "40000",
+      "price": 40000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_8615_large.jpg"
@@ -71,7 +71,7 @@
     {
       "id": 9,
       "name": "GATO RUỐC",
-      "price": "13000",
+      "price": 13000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_8588_large.jpg"
@@ -79,7 +79,7 @@
     {
       "id": 10,
       "name": "MADELEINE",
-      "price": "17000",
+      "price": 17000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
@@ -87,7 +87,7 @@
     {
       "id": 11,
       "name": "MADELEINE CHOCOLATE",
-      "price": "17000",
+      "price": 17000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5476_large.jpg"
@@ -95,7 +95,7 @@
     {
       "id": 12,
       "name": "MADELEINE TRÀ XANH",
-      "price": "17000",
+      "price": 17000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5470_large.jpg"
@@ -103,7 +103,7 @@
     {
       "id": 13,
       "name": "SUGAR STICK",
-      "price": "15000",
+      "price": 15000,
       "type": "cake",
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5478_large.jpg"
@@ -112,7 +112,7 @@
       "id": 14,
       "name": "XỐP",
       "type": "cake",
-      "price": "12000",
+      "price": 12000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5389_large.jpg"
     },
@@ -120,7 +120,7 @@
       "id": 15,
       "name": "CREME CARAMEL",
       "type": "caramen",
-      "price": "10000",
+      "price": 10000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5453_large.jpg"
     },
@@ -128,7 +128,7 @@
       "id": 16,
       "name": "MINI TOKYO CHEESE CAKE",
       "type": "cake",
-      "price": "20000",
+      "price": 20000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5430_large.jpg"
     },
@@ -136,7 +136,7 @@
       "id": 17,
       "name": "SỮA CHUA",
       "type": "yogurt",
-      "price": "12000",
+      "price": 12000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_5500_large.jpg"
     }
