@@ -119,23 +119,26 @@
     {
       "id": 15,
       "name": "CREME CARAMEL",
-      "price": "15000",
+      "type": "caramen",
+      "price": "10000",
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5453_large.jpg"
     },
     {
       "id": 16,
-      "name": "MADELEINE",
-      "price": "15000",
+      "name": "MINI TOKYO CHEESE CAKE",
+      "type": "cake",
+      "price": "20000",
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5430_large.jpg"
     },
     {
       "id": 17,
-      "name": "MADELEINE",
-      "price": "15000",
+      "name": "SỮA CHUA",
+      "type": "yogurt",
+      "price": "12000",
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/img_5500_large.jpg"
     }
   ]
 }
