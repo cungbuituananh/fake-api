@@ -6,139 +6,192 @@
   "products": [
     {
       "id": 1,
-      "name": "BIG PALMIER",
-      "type": "cake",
+      "name": "BÁNH BIG PALMIER",
       "price": 15000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/img_8599_large.jpg"
     },
     {
       "id": 2,
-      "name": "BUTTER RAISINS",
-      "type": "cake",
+      "name": "QUICHE LORRAIN",
+      "price": 25000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_4468_large.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BÁNH NHÂN HÀNH JAMBON",
+      "price": 16000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_4412_large.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BÁNH NHÂN DỪA TƯƠI",
+      "price": 12000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_4391_large.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ALMOND CROISSANT",
+      "price": 25000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_8591_large.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BÁNH MEXICO & KHOAI MÔN",
+      "price": 17000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_4396_large.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BÁNH PAIN AUX CHOCOLATE",
+      "price": 15000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_4390_large.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BÁNH PATÉ CHAUD",
+      "price": 13500,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/b_nh_pat__chaud_large.jpg"
+    },
+    {
+      "id": 9,
+      "name": "BÁNH BUTTER RAISINS",
       "price": 25000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/z1627694195311_b14b0df8031bfcc36cc0885565a22867_ce1450d5cf704a5dbebaf65e5081d091_large.jpg"
     },
     {
-      "id": 3,
-      "name": "CAKE DỨA",
-      "type": "cake",
-      "price": 22000,
+      "id": 10,
+      "name": "BÁNH DỪA NHO TRỨNG MUỐI",
+      "price": 18000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/z1627693275115_591d2fbfece2e008113aaa5ac55f0a08_cf11dceb3b47478597921361a2d5d4c1_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/z1627779655304_fcd3b290f05473f278d6d8a4d92f5a1e_ad26a015058940b8915debb2163bc194_large.jpg"
     },
     {
-      "id": 4,
-      "name": "CHUỐI NƯỚNG",
-      "type": "cake",
+      "id": 11,
+      "name": "BÁNH MADELEINE TRÀ XANH",
+      "price": 15000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_5470_large.jpg"
+    },
+    {
+      "id": 12,
+      "name": "BÁNH MINI TOKYO CHEESE CAKE",
+      "price": 10000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_5430_large.jpg"
+    },
+    {
+      "id": 13,
+      "name": "BÁNH GATEAUX DE BASQUE",
+      "price": 40000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_8615_large.jpg"
+    },
+    {
+      "id": 14,
+      "name": "BÁNH DELICACY COCONUT CAKE",
+      "price": 22000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_8612_large.jpg"
+    },
+    {
+      "id": 15,
+      "name": "BÁNH DONUT CHOCOLATE",
+      "price": 15000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_5382_large.jpg"
+    },
+    {
+      "id": 16,
+      "name": "BÁNH SPONG CAKE CHỮ NHẬT",
+      "price": 11000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_8601_large.jpg"
+    },
+    {
+      "id": 17,
+      "name": "BÁNH CHUỐI NƯỚNG",
       "price": 20000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/z1627693706635_f3729229ebcdc40fb2a40cbbebc6c4cd_489532f5116a4b65a711eeb0fdfc05c8_large.jpg"
     },
     {
-      "id": 5,
-      "name": "DELICACY COCONUT CAKE",
-      "price": 22000,
-      "type": "cake",
+      "id": 18,
+      "name": "BÁNH ALMOND TUILE COOKIES",
+      "price": 55000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_8612_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/nguyen_son-296_copy_large.jpg"
     },
     {
-      "id": 6,
-      "name": "DONUT CHOCOLATE",
-      "price": 15000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5382_large.jpg"
-    },
-    {
-      "id": 7,
-      "name": "DONUT ĐƯỜNG",
-      "price": 8000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5386_large.jpg"
-    },
-    {
-      "id": 8,
-      "name": "GATEAUX DE BASQUE",
-      "price": 40000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_8615_large.jpg"
-    },
-    {
-      "id": 9,
-      "name": "GATO RUỐC",
-      "price": 13000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_8588_large.jpg"
-    },
-    {
-      "id": 10,
-      "name": "MADELEINE",
-      "price": 17000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5473_large.jpg"
-    },
-    {
-      "id": 11,
-      "name": "MADELEINE CHOCOLATE",
-      "price": 17000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5476_large.jpg"
-    },
-    {
-      "id": 12,
-      "name": "MADELEINE TRÀ XANH",
-      "price": 17000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5470_large.jpg"
-    },
-    {
-      "id": 13,
-      "name": "SUGAR STICK",
-      "price": 15000,
-      "type": "cake",
-      "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5478_large.jpg"
-    },
-    {
-      "id": 14,
-      "name": "XỐP",
-      "type": "cake",
+      "id": 19,
+      "name": "BÁNH COOKIES MÈ ĐEN",
       "price": 12000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5389_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/cookies_me_den_cbd7e57446214cbab77db4f845626b6b_large.jpg"
     },
     {
-      "id": 15,
-      "name": "CREME CARAMEL",
-      "type": "caramen",
-      "price": 10000,
+      "id": 20,
+      "name": "BÁNH BIG PALMIER",
+      "price": 15000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5453_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/banh_cookies_dau_xanh_8021a9b563b1495c85f02f6d004c3ff4_large.jpg"
     },
     {
-      "id": 16,
-      "name": "MINI TOKYO CHEESE CAKE",
-      "type": "cake",
+      "id": 21,
+      "name": "BÁNH KHẢO ĐẬU XANH",
+      "price": 29000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/36ff959213a8eff6b6b9_6e1107f5476c406685503fe336fd4b82_large.jpg"
+    },
+    {
+      "id": 22,
+      "name": "BÁNH REDVELVET",
+      "price": 49000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/z2292310318777_70fe5ef1fadaf65661c1b900602a6970_1small_14d5895df531421090a386bd8b9700ab_large.jpg"
+    },
+    {
+      "id": 23,
+      "name": "BÁNH MỲ SẤY KHÔ RAISIN FINGER",
+      "price": 12000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/banh_my_say_kho_raisin_finger_small_002f5a90f822477da4b3a29b204f21fc_large.jpg"
+    },
+    {
+      "id": 24,
+      "name": "BÁNH MỲ HOA CÚC ĐẬU ĐỎ",
+      "price": 14500,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/banh_my_hoa_cuc_dau_do_b576c75d8c72418bac979bf5f5fc8384_large.jpg"
+    },
+    {
+      "id": 25,
+      "name": "COOKIES LÁ DỨA TRĂNG TRÒN",
       "price": 20000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5430_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/cookies_la_dua_trang_tron_991ebfaed0254c2eb0e63c5a3b0f68c2_large.jpg"
     },
     {
-      "id": 17,
-      "name": "SỮA CHUA",
-      "type": "yogurt",
-      "price": 12000,
+      "id": 26,
+      "name": "BÁNH MỲ CROUTONS TIÊU TỎI",
+      "price": 22000,
       "quantity": 1,
-      "image": "https://product.hstatic.net/1000104153/product/img_5500_large.jpg"
+      "image": "https://product.hstatic.net/1000104153/product/croutons_ngot_200_gr_5e9ba781b17242a8aa7053033fa390a5_large.jpg"
+    },
+    {
+      "id": 27,
+      "name": "BÁNH CHẢ THẬP CẨM",
+      "price": 35000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/656b3bdda2e75eb907f6_b266532246804c95bbf03707ce863aa7_large.jpg"
     }
   ]
 }
