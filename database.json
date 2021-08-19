@@ -6,6 +6,7 @@
   "products": [
     {
       "id": 1,
+      "type": "cake",
       "name": "BÁNH BIG PALMIER",
       "price": 15000,
       "quantity": 1,
@@ -13,6 +14,7 @@
     },
     {
       "id": 2,
+      "type": "cake",
       "name": "QUICHE LORRAIN",
       "price": 25000,
       "quantity": 1,
@@ -20,6 +22,7 @@
     },
     {
       "id": 3,
+      "type": "cake",
       "name": "BÁNH NHÂN HÀNH JAMBON",
       "price": 16000,
       "quantity": 1,
@@ -27,6 +30,7 @@
     },
     {
       "id": 4,
+      "type": "cake",
       "name": "BÁNH NHÂN DỪA TƯƠI",
       "price": 12000,
       "quantity": 1,
@@ -34,6 +38,7 @@
     },
     {
       "id": 5,
+      "type": "cake",
       "name": "ALMOND CROISSANT",
       "price": 25000,
       "quantity": 1,
@@ -41,6 +46,7 @@
     },
     {
       "id": 6,
+      "type": "cake",
       "name": "BÁNH MEXICO & KHOAI MÔN",
       "price": 17000,
       "quantity": 1,
@@ -48,6 +54,7 @@
     },
     {
       "id": 7,
+      "type": "cake",
       "name": "BÁNH PAIN AUX CHOCOLATE",
       "price": 15000,
       "quantity": 1,
@@ -55,6 +62,7 @@
     },
     {
       "id": 8,
+      "type": "bread",
       "name": "BÁNH PATÉ CHAUD",
       "price": 13500,
       "quantity": 1,
@@ -62,6 +70,7 @@
     },
     {
       "id": 9,
+      "type": "bread",
       "name": "BÁNH BUTTER RAISINS",
       "price": 25000,
       "quantity": 1,
@@ -69,6 +78,7 @@
     },
     {
       "id": 10,
+      "type": "cake",
       "name": "BÁNH DỪA NHO TRỨNG MUỐI",
       "price": 18000,
       "quantity": 1,
@@ -76,6 +86,7 @@
     },
     {
       "id": 11,
+      "type": "cake",
       "name": "BÁNH MADELEINE TRÀ XANH",
       "price": 15000,
       "quantity": 1,
@@ -83,6 +94,7 @@
     },
     {
       "id": 12,
+      "type": "cake",
       "name": "BÁNH MINI TOKYO CHEESE CAKE",
       "price": 10000,
       "quantity": 1,
@@ -90,6 +102,7 @@
     },
     {
       "id": 13,
+      "type": "cake",
       "name": "BÁNH GATEAUX DE BASQUE",
       "price": 40000,
       "quantity": 1,
@@ -97,6 +110,7 @@
     },
     {
       "id": 14,
+      "type": "cake",
       "name": "BÁNH DELICACY COCONUT CAKE",
       "price": 22000,
       "quantity": 1,
@@ -104,6 +118,7 @@
     },
     {
       "id": 15,
+      "type": "cake",
       "name": "BÁNH DONUT CHOCOLATE",
       "price": 15000,
       "quantity": 1,
@@ -111,6 +126,7 @@
     },
     {
       "id": 16,
+      "type": "cake",
       "name": "BÁNH SPONG CAKE CHỮ NHẬT",
       "price": 11000,
       "quantity": 1,
@@ -118,6 +134,7 @@
     },
     {
       "id": 17,
+      "type": "cake",
       "name": "BÁNH CHUỐI NƯỚNG",
       "price": 20000,
       "quantity": 1,
@@ -125,6 +142,7 @@
     },
     {
       "id": 18,
+      "type": "cake",
       "name": "BÁNH ALMOND TUILE COOKIES",
       "price": 55000,
       "quantity": 1,
@@ -132,6 +150,7 @@
     },
     {
       "id": 19,
+      "type": "cake",
       "name": "BÁNH COOKIES MÈ ĐEN",
       "price": 12000,
       "quantity": 1,
@@ -139,6 +158,7 @@
     },
     {
       "id": 20,
+      "type": "cake",
       "name": "BÁNH BIG PALMIER",
       "price": 15000,
       "quantity": 1,
@@ -146,6 +166,7 @@
     },
     {
       "id": 21,
+      "type": "cake",
       "name": "BÁNH KHẢO ĐẬU XANH",
       "price": 29000,
       "quantity": 1,
@@ -153,6 +174,7 @@
     },
     {
       "id": 22,
+      "type": "cake",
       "name": "BÁNH REDVELVET",
       "price": 49000,
       "quantity": 1,
@@ -160,6 +182,7 @@
     },
     {
       "id": 23,
+      "type": "bread",
       "name": "BÁNH MỲ SẤY KHÔ RAISIN FINGER",
       "price": 12000,
       "quantity": 1,
@@ -167,6 +190,7 @@
     },
     {
       "id": 24,
+      "type": "bread",
       "name": "BÁNH MỲ HOA CÚC ĐẬU ĐỎ",
       "price": 14500,
       "quantity": 1,
@@ -174,6 +198,7 @@
     },
     {
       "id": 25,
+      "type": "cake",
       "name": "COOKIES LÁ DỨA TRĂNG TRÒN",
       "price": 20000,
       "quantity": 1,
@@ -181,6 +206,7 @@
     },
     {
       "id": 26,
+      "type": "bread",
       "name": "BÁNH MỲ CROUTONS TIÊU TỎI",
       "price": 22000,
       "quantity": 1,
@@ -188,10 +214,75 @@
     },
     {
       "id": 27,
+      "type": "cake",
       "name": "BÁNH CHẢ THẬP CẨM",
       "price": 35000,
       "quantity": 1,
       "image": "https://product.hstatic.net/1000104153/product/656b3bdda2e75eb907f6_b266532246804c95bbf03707ce863aa7_large.jpg"
+    },
+    {
+      "id": 28,
+      "type": "bread",
+      "name": "BÁNH MÌ NHỎ",
+      "price": 2000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/nguyen_son-256_large.jpg"
+    },
+    {
+      "id": 29,
+      "type": "birthday-cake",
+      "name": "FRUIT DELICACY CAKE",
+      "price": 235000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/nguyen_son-227_copy_small_grande_2cc3154f9caf415ca4b68e65e526752c_large.jpg"
+    },
+    {
+      "id": 30,
+      "type": "birthday-cake",
+      "name": "BLACK FOREST CAKE",
+      "price": 200000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/img_3591_copy_small_5fc8f9794e1f4a01b5e3506ba9f391c6_large.jpg"
+    },
+    {
+      "id": 31,
+      "type": "bread",
+      "name": "BÁNH MỲ NHỎ ĐÔNG LẠNH",
+      "price": 10000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/70204472_max1_f6272cc0ad8d4eb58ee09e34cc19d772_large.jpg"
+    },
+    {
+      "id": 32,
+      "type": "bread",
+      "name": "BÁNH MỲ ĐEN",
+      "price": 15000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/banh_my_den_d43bb981b0ca4d63989cfc447aa09858_large.jpg"
+    },
+    {
+      "id": 33,
+      "type": "bread",
+      "name": "BÁNH MỲ BAGUETTE",
+      "price": 12000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/nguyen_son-252_large.jpg"
+    },
+    {
+      "id": 34,
+      "type": "birthday-cake",
+      "name": "MANGO CHEESE CAKE",
+      "price": 305000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/nguyen_son-235_copy_small_grande_a44105d5508c4deebae692476d840747_large.jpg"
+    },
+    {
+      "id": 35,
+      "type": "birthday-cake",
+      "name": "WHITE CHEESE AND CARAMEL CAKE",
+      "price": 275000,
+      "quantity": 1,
+      "image": "https://product.hstatic.net/1000104153/product/white-cheese-and-caramel-cake_b862c7ae087a485482a025ea6ee4c491_large.jpg"
     }
   ]
 }
